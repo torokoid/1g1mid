@@ -61,7 +61,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://peyng.github.io/restart/20061222_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyng.github.io/1g1mid/20190802_011.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -98,7 +98,7 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
 
-<h1><span class="yellow"><marquee behavior="left">!!! 2019年_HGT_1G1,中間報告会の記録 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2019年8月2日_1G1,中間報告会の記録 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 
@@ -129,14 +129,13 @@ a.p:hover span {
 <br/>
    <p>スタートは宇都宮駅、西口の川で鮎焼きしたのが始まりでした。2004年でしたか？</p>
 <p>&#160;</p>
-
 <p>宿泊予約は<a href="#" class="p">ム～さん<span><img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="ム～さん"></span></a>のご尽力！
    <br/>
 <a href="#" class="p">ス～さん、<span><img src="https://torokoid.github.io/mahoroba/6645.JPG" alt="ス～さん、"></span></a>いつも遠くからの運転、お気をつけて！</p>
       <h2> 
       <span class="blue"><strong><marquee behavior="alternate"> <a href="https://torokoid.github.io/mahoroba/181.JPG">毎年集まれることに感謝(^^)/ ← クリック！</a></marquee></strong></span></h2>
 -->
-      <p>&#160;</p> <p>&#160;</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a href="20190802_001.jpg" data-lightbox="abc"><img src="20190802_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190802_002.jpg" data-lightbox="abc"><img src="20190802_002.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190802_003.jpg" data-lightbox="abc"><img src="20190802_003.jpg" alt="サンプル画像" width="900" /></a>
