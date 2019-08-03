@@ -3,7 +3,7 @@
  <head>
  <meta charset="UTF-8">
  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
- <title>再スタート</title>
+ <title>中間報告会</title>
 
 <style type="text/css">
  p {
@@ -93,14 +93,12 @@ a.p:hover span {
 
 </head>
 
-
-<body onload="alert('長い間、お疲れ様でした！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
 </p>
 
-<h1><span class="yellow"><marquee behavior="left">!!! 1983年_HGT_7K配属者、定年退職祝いの記録 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2019年_HGT_1G1,中間報告会の記録 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 
@@ -139,59 +137,18 @@ a.p:hover span {
       <span class="blue"><strong><marquee behavior="alternate"> <a href="https://torokoid.github.io/mahoroba/181.JPG">毎年集まれることに感謝(^^)/ ← クリック！</a></marquee></strong></span></h2>
 -->
       <p>&#160;</p> <p>&#160;</p>
-  <h3>
-      <p>退職者リスト</p><br>
-<p><span class="blinking"><font color="red">
-	半澤幸彦：60歳、2019年、定年退職</font></span></p><br>
-      <p>渡辺正樹：60歳、2018年、定年退職</p><br>
-      <p><a href="https://peyng.github.io/restart/20110114_001.jpg" target="_blank" class="p">佐々木正美：2011年、51歳で転職 → テイ・エス テック？<span><img src="https://peyng.github.io/restart/20110114_001.jpg" alt="佐々木 送別会"></span></a><br><br>
-      <p><a href="https://peyng.github.io/restart/20061222_001.JPG" target="_blank" class="p">高村（強度・耐久）<span><img src="https://peyng.github.io/restart/20061222_001.JPG" alt="佐々木 送別会"></span></a><a href="https://peyng.github.io/restart/20061222_002.JPG" target="_blank" class="p">：40代で転職<span><img src="https://peyng.github.io/restart/20061222_002.JPG" alt="佐々木 送別会"></span></a></p><br>
-      <p>紺野（空調）：20代で転職</p><br>
-      <p>森（動力性能）：20代で転職</p><br>
-      <p>前田：配属直後に転職 → ワコール</p><br>
-
- <br><br>
-<section>
-	<font color="red"><h3>・・・開催通知・・・</h3></font>
-	 <font color="white">	
-From: Yuichi Yoshimura (吉村 祐一) <br>
-Sent: Monday, June 17, 2019 12:18 PM<br>
-To: Satoshi Takizawa (滝澤 敏) <satoshi_takizawa@n.t.rd.honda.co.jp>; Hirohiko Takaku (高久 裕彦) <hirohiko_takaku@n.t.rd.honda.co.jp>; Kanji Kita (北 貫二) <kanji_kita@n.t.rd.honda.co.jp>; Fumio Tozaki (戸崎 文雄) <fumio_tozaki@n.t.rd.honda.co.jp>; Minoru Higuchi (樋口 実) <minoru_higuchi@n.t.rd.honda.co.jp>; KOJI HIGUCHI (樋口 浩二) <koji_higuchi@hm.honda.co.jp>; Masahiro Sato (佐藤 雅弘) <masahiro_sato@n.t.rd.honda.co.jp>; Yuta Urushiyama (漆山 雄太) <yuta_urushiyama@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Yoshikazu_Matsumura@honda-tft.co.jp<br>
-Cc: Yukihiko Hanzawa (半沢 幸彦) <yukihiko_hanzawa@n.t.rd.honda.co.jp><br>
-Subject: 半澤幸彦さん退職祝いのご案内<br><br>
-
-1983年HGT7研配属の皆さんへ<br>
-HGT11G開戦BLの吉村です、ご無沙汰しています。<br><br>
-
-さて同期入社メンバーもそろそろ還暦を迎える方もおり、定年延長、退職、それぞれの道を選択していると思います。<br>
-11G2BLの半澤幸彦さんにおかれましては、本年9月の誕生月をもって退職する道を選ばれました。<br>
-そこでこれまでの活躍を称え、また今後の第二の人生での活躍を祈り、同期メンバーでの壮行会を企画しようと思います。<br>
-僭越ではありますが、私が幹事を努めさせていただきます。<br>
-ちなみに私は7月末で還暦を迎えますが、1年延長を申告しています。<br><br>
-
-壮行会の日時はちょっと先ですが、8月30日(金)、場所は宇都宮駅近辺を予定しています。<br>
-参加いただける方は本メールの投票ボタンをポチっと押していただきたく思います。もちろん返信メールでも結構です。<br><br>
-
-余談ですが、半澤さんは退職にあたり、ファイナンシャルプランナーさんと数多くの相談を実施し、退職後の生活資金について綿密な計画を立案した模様です。<br>
-これから退職する我々のために、有益な話をしていただけるものと期待します。金融庁試算の老後生活資金2000万円要についても真偽を語っていただけるものと思います。<br><br>
-
-ちなみに、おいおい待てよ、半澤だけじゃないよ俺も退職だよ、という方がいれば申し出ください。<br>
-また、都合により不参加となる方は、返信メールで近況を一報ください。<br>
-以上よろしくお願いします。<br><br>
-
-ーーーーーーーーーーーーーーーーーーーーーーーーーーーーー<br>
-吉村　祐一<br>
-株式会社　本田技術研究所　オートモービルセンター<br>
-第11技術開発室　開発戦略ブロック<br>
-〒321-3393　栃木県芳賀郡芳賀町下高根沢4630番地<br>
-TEL (028)677-3311　内線8764406<br>
-携帯 080-4105-3838<br>
-E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
-ーーーーーーーーーーーーーーーーーーーーーーーーーーーーー<br><br>
-</font>
-</section>
- 
- <img src="https://peyng.github.io/restart/キャプチャ.JPG">
+<a href="20190802_001.jpg" data-lightbox="abc"><img src="20190802_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190802_002.jpg" data-lightbox="abc"><img src="20190802_002.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190802_003.jpg" data-lightbox="abc"><img src="20190802_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190802_004.jpg" data-lightbox="abc"><img src="20190802_004.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190802_005.jpg" data-lightbox="abc"><img src="20190802_005.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190802_006.jpg" data-lightbox="abc"><img src="20190802_006.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190802_007.jpg" data-lightbox="abc"><img src="20190802_007.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190802_008.jpg" data-lightbox="abc"><img src="20190802_008.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190802_009.jpg" data-lightbox="abc"><img src="20190802_009.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190802_010.jpg" data-lightbox="abc"><img src="20190802_010.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190802_011.jpg" data-lightbox="abc"><img src="20190802_011.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190802_012.jpg" data-lightbox="abc"><img src="20190802_012.jpg" alt="サンプル画像" width="900" /></a>
  
       <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p>
  <!--     <section>
