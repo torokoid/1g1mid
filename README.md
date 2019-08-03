@@ -150,7 +150,7 @@ a.p:hover span {
 <a href="20190802_012.jpg" data-lightbox="abc"><img src="20190802_012.jpg" alt="サンプル画像" width="900" /></a>
 <p>&#160;</p>
 <h2>スピーチ動画</h2>
-<a href="https://youtu.be/KES1T9H-YoE" data-lightbox="abc"><img src="https://youtu.be/KES1T9H-YoE" alt="並木さん" width="900" /></a>
+<a href="https://youtu.be/KES1T9H-YoE" data-lightbox="abc"><img src="20190802_013.jpg" alt="並木さん" width="900" /></a>
       <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p>
  <!--     <section>
 <h2>おまけ、宇都宮とさいたまの天気予報（ときどき上下が入れ替わるので注意！）</h2>
