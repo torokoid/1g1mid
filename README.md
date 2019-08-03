@@ -135,7 +135,7 @@ a.p:hover span {
       <h2> 
       <span class="blue"><strong><marquee behavior="alternate"> <a href="https://torokoid.github.io/mahoroba/181.JPG">毎年集まれることに感謝(^^)/ ← クリック！</a></marquee></strong></span></h2>
 -->
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a href="20190802_001.jpg" data-lightbox="abc"><img src="20190802_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190802_002.jpg" data-lightbox="abc"><img src="20190802_002.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190802_003.jpg" data-lightbox="abc"><img src="20190802_003.jpg" alt="サンプル画像" width="900" /></a>
