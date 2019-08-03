@@ -150,7 +150,8 @@ a.p:hover span {
 <a href="20190802_012.jpg" data-lightbox="abc"><img src="20190802_012.jpg" alt="サンプル画像" width="900" /></a>
 <p>&#160;</p>
 <h2>スピーチ動画</h2>
-<a href="https://youtu.be/KES1T9H-YoE" target="_blank"><img src="20190802_013.jpg" alt="並木さん" width="300" /></a><br/>
+<a href="https://youtu.be/KES1T9H-YoE" target="_blank"><img src="20190802_013.jpg" alt="並木さん" width="300" /></a>
+<a href="https://youtu.be/-r8eR5OqDTM" target="_blank"><img src="20190802_014.jpg" alt="小林さん" width="300" /></a><br/>
 
       <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p>
  <!--     <section>
