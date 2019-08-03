@@ -148,7 +148,8 @@ a.p:hover span {
 <a href="20190802_010.jpg" data-lightbox="abc"><img src="20190802_010.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190802_011.jpg" data-lightbox="abc"><img src="20190802_011.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190802_012.jpg" data-lightbox="abc"><img src="20190802_012.jpg" alt="サンプル画像" width="900" /></a>
- 
+<p>&#160;</p>
+<h2>スピーチ動画</h2>
       <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p>
  <!--     <section>
 <h2>おまけ、宇都宮とさいたまの天気予報（ときどき上下が入れ替わるので注意！）</h2>
